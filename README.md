@@ -13,6 +13,7 @@ Connect your Google Drive so that you can store the model that you’ll be train
 **Step-4**
 In Model Download
 CKPT_Link field: paste the below link
+https://drive.google.com/file/d/1nL36kqdawd_hlwQfRT0yPoC7dFJJALo3/view?usp=drive_link
 
 **or**
 
